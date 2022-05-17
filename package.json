@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/pratamatama/learn-cloudfunction/issues"
   },
-  "homepage": "https://github.com/pratamatama/learn-cloudfunction#readme"
+  "homepage": "https://github.com/pratamatama/learn-cloudfunction#readme",
+  "dependencies": {
+    "firebase-admin": "^10.2.0",
+    "firebase-functions": "^3.21.1"
+  }
 }
